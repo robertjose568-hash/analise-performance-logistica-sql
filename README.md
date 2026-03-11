@@ -19,3 +19,6 @@ Este projeto apresenta uma solução prática para identificar gargalos em proce
 Como usar os arquivos:
 - script_criacao.sql: Contém a estrutura da tabela e os dados inseridos.
 - query_analise.sql: Contém a lógica de cálculo dos KPIs financeiros.
+
+# Visualização dos Resultados
+https://docs.google.com/spreadsheets/d/1q2zg4Fx0utV7KAGiTDiRGpMSkiE7E2GOS_6LbvnDZ_0/edit?gid=217361662#gid=217361662
